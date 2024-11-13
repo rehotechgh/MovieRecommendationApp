@@ -44,7 +44,7 @@ function App() {
             <header>
                 <h1>Movie Recommendations</h1>
             </header>
-           // <MoviesList />
+            <MoviesList />
         </div>
     );
 }
